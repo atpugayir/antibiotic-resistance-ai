@@ -39,3 +39,14 @@ RIYA GUPTA
 PRERNA GARG
 UTKARSH CHOUDHARY
 PARMEET SINGH
+
+
+Model File Note
+The trained model file (`model.pkl`) is not included due to GitHub size limits.
+To generate it, run:
+python model.py
+This will automatically create:
+* model.pkl
+* bacteria_encoder.pkl
+* antibiotic_encoder.pkl
+
